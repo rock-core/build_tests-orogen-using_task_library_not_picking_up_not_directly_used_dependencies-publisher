@@ -1,0 +1,3 @@
+name "using_task_library_not_picking_up_not_directly_used_dependencies_publisher"
+
+task_context "Task"
